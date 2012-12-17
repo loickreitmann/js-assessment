@@ -1,3 +1,9 @@
 npm-debug.log
 node_modules/
+<<<<<<< Updated upstream
 .DS_Store
+=======
+.DS_Store
+tests/app/.DS_Store
+.DS_Store
+>>>>>>> Stashed changes

@@ -2,11 +2,12 @@ var tests = [
   // link to test files here
   'tests/app/bestPractices',
   'tests/app/arrays',
-  'tests/app/objects',
-  'tests/app/functions',
-  'tests/app/modules',
+  'tests/app/async',
   'tests/app/flowControl',
+  'tests/app/functions',
   'tests/app/logicalOperators',
+  'tests/app/modules',
+  'tests/app/objects',
   'tests/app/regex'
 ];
 
